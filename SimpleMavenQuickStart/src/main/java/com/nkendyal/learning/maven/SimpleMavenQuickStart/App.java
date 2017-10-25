@@ -1,7 +1,7 @@
 package com.nkendyal.learning.maven.SimpleMavenQuickStart;
 
 /**
- * Hello world!
+ * Hello world! Again
  *
  */
 public class App 
