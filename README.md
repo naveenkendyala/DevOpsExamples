@@ -1,9 +1,8 @@
 # DevOpsExamples
 --------------------------------------------------------------------------------------------------------------------
-***JAVA-[SimpleMavenQuickStart]***
+** Maven : [Java : SimpleMavenQuickStart] ***
 * Simple Hello World java program to demonstrate the maven features
 
-
-***BASH-[kops]***
+** Kubernetes : [bash : kops]***
 * Walk through of the steps for setting up kops and creating kubernetes cluster
 --------------------------------------------------------------------------------------------------------------------
