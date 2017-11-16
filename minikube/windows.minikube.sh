@@ -24,7 +24,11 @@ minikube status
 # cluster: Running
 # kubectl: Correctly Configured: pointing to minikube-vm at 192.168.107.47
 
+#Get the dashboard of the Kubernetes Cluster. This opens up the dashboard in the default browser
+minikube dashboard
 
+#Stop the minikube cluster
+minikube stop
 
 
 
